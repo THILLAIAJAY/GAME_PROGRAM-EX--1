@@ -38,7 +38,7 @@ To implement and demonstrate various material effects in Unreal Engine, includin
 <img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025, 01_34_14 PM" src="https://github.com/user-attachments/assets/c4756af5-a1c2-40a8-a90e-7937f2936df4" />
 
 
-![image](https://github.com/user-attachments/assets/3aaea163-8335-42c9-af3c-46adac71cb00)
+<img width="642" height="615" alt="image" src="https://github.com/user-attachments/assets/cea298df-cf0c-4106-87b4-791572a65771" />
 
 
 
